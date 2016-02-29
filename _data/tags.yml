@@ -1,0 +1,16 @@
+workflow:
+  name: Workflow
+reflective:
+  name: reflective
+blog:
+  name: Blog
+lean:
+  name: Starting lean
+beginner:
+  name: beginner
+tutorial:
+  name: Tutorial
+activity:
+  name: Class activity
+customer:
+  name: Customer Validation

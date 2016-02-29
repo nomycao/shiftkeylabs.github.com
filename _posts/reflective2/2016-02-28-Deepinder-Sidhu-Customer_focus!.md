@@ -3,12 +3,12 @@ layout: post
 category : Reflective BlogPost
 tagline: "Number two"
 author: Deepinder Singh Sidhu
-tags : [Class activity, Value for the customer]
+tags : [activity, customer]
 ---
 # Focusing on the customer!
 ##### Roadmap for the course:
 
-As a graduate student from a Computer Science background and with a little exprience with the industry for me, this course has been pretty much different from all other quintessential courses. And it gets interesting everytime with the fun activities. The course statrted with a goal to design for OTN and use their data. It all started with the **How To?**  statement. Then there was introduction to the *UPS model*, the user, problem and solution model. 
+As a graduate student from a Computer Science background and with a little exprience with the industry for me, this course has been pretty much different from all other quintessential courses. And it gets interesting everytime with the fun activities. The course statrted with a goal to design for OTN and use their data. It all started with the **How To?**  statement. Then there was introduction to the *UPS model*, the user, problem and solution model.
 This Monday we were guided to the most important aspect for designing, the customers perspective was discussed.
 
 ##### The Activity:
